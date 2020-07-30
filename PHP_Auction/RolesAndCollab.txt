@@ -1,0 +1,11 @@
+Roles:
+
+Anthony-Team Lead; Registration & Index
+Preston- list auctions
+Emir- Register Items
+Dalani- Login
+
+Everyone-Troubleshooting and editing
+
+
+Collaboration: GitHub and Discord
